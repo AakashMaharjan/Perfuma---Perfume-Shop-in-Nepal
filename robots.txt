@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aakashmaharjan.github.io/Perfuma---Perfume-Shop-in-Nepal/sitemap.xml
